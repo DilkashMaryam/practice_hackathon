@@ -18,7 +18,7 @@ const hero = () => {
             <li>Health & Beauty</li>
         </ul>
         <hr className='mt-3'/>
-        <Image src="/images/hero.png" alt='hero' width={320} height={500}></Image>
+        <Image src="/images/hero.png" alt='hero' width={500} height={500}></Image>
        </div>
        <div className='hidden md:flex md:w-[100%] md:h-[344px]'>
        <ul className='md:font-Poppins md:font-normal md:text-[16px] md:w-[217px] md:h-[344px] md:ml-20 space-y-4'>
