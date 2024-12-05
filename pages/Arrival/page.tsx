@@ -12,10 +12,10 @@ const page = () => {
             <h1 className='font-Inter font-semibold text-[20px] text-[#000000] items-center flex md:flex md:text-[36px] md:text-Inter md:font-semibold'>New Arrival</h1>
          </div>
          <div className='w-[100%] h-auto mt-4 md:w-[100%] md:h-[700px] md:mt-8 md:grid md:grid-cols-4 md:grid-rows-2 md:gap-8'>
-           <Image src="/images/arrival1.png" alt='arrival' width={320} height={500} className='md:row-span-2 md:col-span-2 md:flex md:w-full md:h-full md:object-cover mt-3'></Image>
-           <Image src="/images/arrival2.png" alt='arrival' width={320} height={500} className='md:w-full md:h-full md:col-span-2 md:object-cover mt-3'></Image>
-           <Image src="/images/arrival3.png" alt='arrival' width={320} height={500} className='md:col-span-1 md:w-full md:h-full md:object-cover mt-3'></Image>
-           <Image src="/images/arrival4.png" alt='arrival' width={320} height={500} className='md:col-span-1 md:w-full md:h-full md:object-cover mt-3'></Image>
+           <Image src="/images/arrival1.png" alt='arrival' width={500} height={500} className='md:row-span-2 md:col-span-2 md:flex md:w-full md:h-full md:object-cover mt-3'></Image>
+           <Image src="/images/arrival2.png" alt='arrival' width={500} height={500} className='md:w-full md:h-full md:col-span-2 md:object-cover mt-3'></Image>
+           <Image src="/images/arrival3.png" alt='arrival' width={500} height={500} className='md:col-span-1 md:w-full md:h-full md:object-cover mt-3'></Image>
+           <Image src="/images/arrival4.png" alt='arrival' width={500} height={500} className='md:col-span-1 md:w-full md:h-full md:object-cover mt-3'></Image>
          </div>
        <div className='w-[100%] h-[300px] gap-4 mt-4 md:flex md:w-[100%] md:gap-48 md:mt-32'>
         <div className='text-center mt-4'>
